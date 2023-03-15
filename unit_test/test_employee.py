@@ -25,11 +25,11 @@ class TestPilot(unittest.TestCase):
     def test_increase_wage(self):
         self.employee_1.increase_wage(1.1)
         self.employee_2.increase_wage(1.1)
-        self.employee_3.increase_wage(2)
+        self.employee_3.increase_wage(3)
 
         self.assertEqual(self.employee_1.wage, 4400)
         self.assertEqual(self.employee_2.wage, 2750)
-        self.assertEqual(self.employee_3.wage, 4000)
+        self.assertEqual(self.employee_3.wage, 4500)
 
 
 if __name__ == "__main__":
