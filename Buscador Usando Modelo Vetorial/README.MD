@@ -16,25 +16,38 @@ A orquestração dos módulos é feita através de um script Python separado cha
 Aqui está o código do script `main.py`:
 
 ```python
-import processador
-import indexador
-import gerador
-import buscador
+import src.processador as processador
+import src.indexador as indexador
+import src.gerador as gerador
+import src.buscador as buscador
 
 def main():
-    print("Iniciando a orquestração dos módulos...")
+    print("Iniciando o processador...")
     processador.main()
-    print("Processamento concluído.")
+    print("Processador concluído.")
+
+    print("Iniciando o indexador...")
     indexador.main()
-    print("Indexação concluída.")
+    print("Indexador concluído.")
+
+    print("Iniciando o gerador...")
     gerador.main()
-    print("Geração concluída.")
+    print("Gerador concluído.")
+
+    print("Iniciando o buscador...")
     buscador.main()
-    print("Busca concluída.")
-    print("Todos os módulos foram executados com sucesso!")
+    print("Buscador concluído.")
 
 if __name__ == "__main__":
     main()
 ```
 
+## Pastas
+`SRC` -> Todos os arquivos necessários para rodar o código estão na pasta.
+`LOGS` -> Os logs são dividos por módulos para facilitar a compreensão da execução.
+`RESULTS`-> Contém os arquivos resultados da execução dos módulos
+`CONFIG` -> Contém os arquivos de configuração para que os módulos rodem corretamente com instruções.
 
+## Como rodar?
+Para executar o código completo, precisa clonar o repositório como todo.
+Depois é somente executar o comando `python3 main.py` na raiz do projeto.
