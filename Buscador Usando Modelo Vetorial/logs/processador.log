@@ -1,0 +1,85 @@
+2023-05-16 22:26:56,303 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:26:56,305 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:27:48,714 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:27:48,714 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:27:48,715 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:27:48,715 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 22:28:40,550 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 22:28:40,593 - INFO - Processando data/cf74.xml
+2023-05-16 22:28:40,778 - INFO - Processando data/cf75.xml
+2023-05-16 22:28:40,925 - INFO - Processando data/cf76.xml
+2023-05-16 22:28:41,164 - INFO - Processando data/cf77.xml
+2023-05-16 22:28:41,223 - INFO - Processando data/cf78.xml
+2023-05-16 22:28:41,282 - INFO - Processando data/cf79.xml
+2023-05-16 22:28:41,344 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 22:28:41,344 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 22:28:41,401 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 22:28:41,401 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 22:28:41,401 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 22:28:41,401 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
+2023-05-16 23:12:11,260 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:12:11,261 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 23:12:11,268 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:12:11,327 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 23:12:11,327 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 23:12:11,327 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:12:11,327 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:16:46,767 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:16:46,768 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 23:16:46,770 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:16:46,806 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 23:16:46,806 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 23:16:46,806 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:16:46,806 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:17:17,406 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:17:17,407 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 23:17:17,408 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:17:17,437 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 23:17:17,437 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 23:17:17,437 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:17:17,437 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:27:37,044 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:27:37,044 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
+2023-05-16 23:27:37,046 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:27:37,083 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
+2023-05-16 23:27:37,083 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
+2023-05-16 23:27:37,083 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-16 23:27:37,083 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
