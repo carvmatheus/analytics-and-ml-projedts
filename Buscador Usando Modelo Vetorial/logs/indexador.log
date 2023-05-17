@@ -1,0 +1,20 @@
+2023-05-16 23:04:29,839 - INFO - Iniciando indexador...
+2023-05-16 23:04:29,840 - INFO - Arquivo de configuração config/index.cfg carregado com sucesso!
+2023-05-16 23:04:30,854 - INFO - results/inverted_list.csv processado com sucesso
+2023-05-16 23:04:31,287 - INFO - Lista invertida carregada com sucesso
+2023-05-16 23:04:32,389 - INFO - Modelo escrito com sucesso no arquivo results/modelo.csv
+2023-05-16 23:16:46,809 - INFO - Iniciando indexador...
+2023-05-16 23:16:46,810 - INFO - Arquivo de configuração config/index.cfg carregado com sucesso!
+2023-05-16 23:16:47,184 - INFO - results/inverted_list.csv processado com sucesso
+2023-05-16 23:16:47,396 - INFO - Lista invertida carregada com sucesso
+2023-05-16 23:16:48,008 - INFO - Modelo escrito com sucesso no arquivo results/modelo.csv
+2023-05-16 23:17:17,439 - INFO - Iniciando indexador...
+2023-05-16 23:17:17,440 - INFO - Arquivo de configuração config/index.cfg carregado com sucesso!
+2023-05-16 23:17:17,779 - INFO - results/inverted_list.csv processado com sucesso
+2023-05-16 23:17:18,039 - INFO - Lista invertida carregada com sucesso
+2023-05-16 23:17:18,672 - INFO - Modelo escrito com sucesso no arquivo results/modelo.csv
+2023-05-16 23:27:37,087 - INFO - Iniciando indexador...
+2023-05-16 23:27:37,088 - INFO - Arquivo de configuração config/index.cfg carregado com sucesso!
+2023-05-16 23:27:37,544 - INFO - results/inverted_list.csv processado com sucesso
+2023-05-16 23:27:38,574 - INFO - Lista invertida carregada com sucesso
+2023-05-16 23:27:40,721 - INFO - Modelo escrito com sucesso no arquivo results/modelo.csv

@@ -1,0 +1,116 @@
+2023-05-16 23:08:40,175 - INFO - Inicializando gerador de busca...
+2023-05-16 23:08:40,175 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:08:40,175 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:08:40,176 - INFO - Processando data/cf74.xml
+2023-05-16 23:08:40,176 - INFO - Processando data/cf74.xml
+2023-05-16 23:08:40,263 - INFO - Processando data/cf75.xml
+2023-05-16 23:08:40,263 - INFO - Processando data/cf75.xml
+2023-05-16 23:08:40,333 - INFO - Processando data/cf76.xml
+2023-05-16 23:08:40,333 - INFO - Processando data/cf76.xml
+2023-05-16 23:08:40,459 - INFO - Processando data/cf77.xml
+2023-05-16 23:08:40,459 - INFO - Processando data/cf77.xml
+2023-05-16 23:08:40,545 - INFO - Processando data/cf78.xml
+2023-05-16 23:08:40,545 - INFO - Processando data/cf78.xml
+2023-05-16 23:08:40,633 - INFO - Processando data/cf79.xml
+2023-05-16 23:08:40,633 - INFO - Processando data/cf79.xml
+2023-05-16 23:08:40,706 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:08:40,706 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:08:40,708 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:08:40,708 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:08:40,708 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:08:40,763 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:08:40,764 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:08:40,764 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:08:40,764 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:16:48,013 - INFO - Inicializando gerador de busca...
+2023-05-16 23:16:48,014 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:16:48,014 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:16:48,015 - INFO - Processando data/cf74.xml
+2023-05-16 23:16:48,015 - INFO - Processando data/cf74.xml
+2023-05-16 23:16:48,116 - INFO - Processando data/cf75.xml
+2023-05-16 23:16:48,116 - INFO - Processando data/cf75.xml
+2023-05-16 23:16:48,168 - INFO - Processando data/cf76.xml
+2023-05-16 23:16:48,168 - INFO - Processando data/cf76.xml
+2023-05-16 23:16:48,248 - INFO - Processando data/cf77.xml
+2023-05-16 23:16:48,248 - INFO - Processando data/cf77.xml
+2023-05-16 23:16:48,376 - INFO - Processando data/cf78.xml
+2023-05-16 23:16:48,376 - INFO - Processando data/cf78.xml
+2023-05-16 23:16:48,422 - INFO - Processando data/cf79.xml
+2023-05-16 23:16:48,422 - INFO - Processando data/cf79.xml
+2023-05-16 23:16:48,479 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:16:48,479 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:16:48,480 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:16:48,480 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:16:48,480 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:16:48,529 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:16:48,530 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:16:48,530 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:16:48,530 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:17:18,676 - INFO - Inicializando gerador de busca...
+2023-05-16 23:17:18,677 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:17:18,677 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:17:18,677 - INFO - Processando data/cf74.xml
+2023-05-16 23:17:18,677 - INFO - Processando data/cf74.xml
+2023-05-16 23:17:18,776 - INFO - Processando data/cf75.xml
+2023-05-16 23:17:18,776 - INFO - Processando data/cf75.xml
+2023-05-16 23:17:18,829 - INFO - Processando data/cf76.xml
+2023-05-16 23:17:18,829 - INFO - Processando data/cf76.xml
+2023-05-16 23:17:18,908 - INFO - Processando data/cf77.xml
+2023-05-16 23:17:18,908 - INFO - Processando data/cf77.xml
+2023-05-16 23:17:19,017 - INFO - Processando data/cf78.xml
+2023-05-16 23:17:19,017 - INFO - Processando data/cf78.xml
+2023-05-16 23:17:19,066 - INFO - Processando data/cf79.xml
+2023-05-16 23:17:19,066 - INFO - Processando data/cf79.xml
+2023-05-16 23:17:19,123 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:17:19,123 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:17:19,124 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:17:19,124 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:17:19,124 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:17:19,171 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:17:19,172 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:17:19,172 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:17:19,172 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:27:40,750 - INFO - Inicializando gerador de busca...
+2023-05-16 23:27:40,751 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:27:40,751 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
+2023-05-16 23:27:40,751 - INFO - Processando data/cf74.xml
+2023-05-16 23:27:40,751 - INFO - Processando data/cf74.xml
+2023-05-16 23:27:41,124 - INFO - Processando data/cf75.xml
+2023-05-16 23:27:41,124 - INFO - Processando data/cf75.xml
+2023-05-16 23:27:41,376 - INFO - Processando data/cf76.xml
+2023-05-16 23:27:41,376 - INFO - Processando data/cf76.xml
+2023-05-16 23:27:41,686 - INFO - Processando data/cf77.xml
+2023-05-16 23:27:41,686 - INFO - Processando data/cf77.xml
+2023-05-16 23:27:41,894 - INFO - Processando data/cf78.xml
+2023-05-16 23:27:41,894 - INFO - Processando data/cf78.xml
+2023-05-16 23:27:42,276 - INFO - Processando data/cf79.xml
+2023-05-16 23:27:42,276 - INFO - Processando data/cf79.xml
+2023-05-16 23:27:42,840 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:27:42,840 - INFO - Leitura do arquivo de configuração: /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final com sucesso...
+2023-05-16 23:27:42,841 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:27:42,841 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:27:42,841 - INFO - Abrindo ./results/inverted_list.csv
+2023-05-16 23:27:42,967 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:27:42,967 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:27:42,967 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
+2023-05-16 23:27:42,968 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:27:42,968 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:27:42,968 - INFO - Fechando ./results/inverted_list.csv
+2023-05-16 23:27:42,974 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:27:42,974 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
+2023-05-16 23:27:42,974 - INFO - Lista Invertida salva em ./results/inverted_list.csv com sucesso...
