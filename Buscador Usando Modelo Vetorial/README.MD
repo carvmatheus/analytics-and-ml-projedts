@@ -43,10 +43,10 @@ if __name__ == "__main__":
 ```
 
 ## Pastas
-`SRC` -> Todos os arquivos necessários para rodar o código estão na pasta.
-`LOGS` -> Os logs são dividos por módulos para facilitar a compreensão da execução.
-`RESULTS`-> Contém os arquivos resultados da execução dos módulos
-`CONFIG` -> Contém os arquivos de configuração para que os módulos rodem corretamente com instruções.
+`SRC` -> Todos os arquivos necessários para rodar o código estão na pasta.  
+`LOGS` -> Os logs são dividos por módulos para facilitar a compreensão da execução.  
+`RESULTS`-> Contém os arquivos resultados da execução dos módulos  
+`CONFIG` -> Contém os arquivos de configuração para que os módulos rodem corretamente com instruções.  
 
 ## Como rodar?
 Para executar o código completo, precisa clonar o repositório como todo.
