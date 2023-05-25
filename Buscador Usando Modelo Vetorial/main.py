@@ -2,6 +2,7 @@ import processador
 import indexador
 import gerador
 import buscador
+import avaliador
 
 def main():
     print("Iniciando o processador...")
@@ -19,6 +20,9 @@ def main():
     print("Iniciando o buscador...")
     buscador.main()
     print("Buscador concluído.")
+
+    print("Iniciando o buscador...")    
+    avaliador.main()
 
 if __name__ == "__main__":
     main()

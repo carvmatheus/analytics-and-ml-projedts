@@ -6,8 +6,15 @@ Este projeto é uma coleção de módulos Python independentes que são orquestr
 2. Indexador
 3. Gerador
 4. Buscador
+5. Avaliador
+
 
 Cada módulo é um arquivo .py separado que está localizado na mesma raiz do projeto. Cada módulo possui uma função `main()` que serve como ponto de entrada para a execução do módulo.
+
+## Resultados
+
+Os resultados do código podem ser visualizados na pasta avaliacao.  
+Lá também está os dataframes com os resultados pedidos.
 
 ## Orquestração dos Módulos
 
