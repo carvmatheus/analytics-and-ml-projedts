@@ -1,85 +1,447 @@
-2023-05-16 22:26:56,303 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:26:56,305 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:27:48,714 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:27:48,714 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:27:48,715 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:27:48,715 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:28:09,258 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:28:09,266 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,267 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 22:28:09,312 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 22:28:09,313 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,313 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:09,313 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 22:28:40,550 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 22:28:40,593 - INFO - Processando data/cf74.xml
-2023-05-16 22:28:40,778 - INFO - Processando data/cf75.xml
-2023-05-16 22:28:40,925 - INFO - Processando data/cf76.xml
-2023-05-16 22:28:41,164 - INFO - Processando data/cf77.xml
-2023-05-16 22:28:41,223 - INFO - Processando data/cf78.xml
-2023-05-16 22:28:41,282 - INFO - Processando data/cf79.xml
-2023-05-16 22:28:41,344 - INFO - Abrindo ./results/inverted_list.csv
-2023-05-16 22:28:41,344 - INFO - Abrindo ./results/inverted_list.csv
-2023-05-16 22:28:41,401 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
-2023-05-16 22:28:41,401 - INFO - 6355 linhas escritas em ./results/inverted_list.csv
-2023-05-16 22:28:41,401 - INFO - Fechando ./results/inverted_list.csv
-2023-05-16 22:28:41,401 - INFO - Fechando ./results/inverted_list.csv
-2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:40:52,980 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:39,790 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:41:53,563 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 22:42:43,890 - ERROR - Arquivo de modelo ou de consultas não especificado.
-2023-05-16 23:12:11,260 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 23:12:11,261 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 23:12:11,268 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:12:11,327 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 23:12:11,327 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 23:12:11,327 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:12:11,327 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:16:46,767 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 23:16:46,768 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 23:16:46,770 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:16:46,806 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 23:16:46,806 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 23:16:46,806 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:16:46,806 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:17:17,406 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 23:17:17,407 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 23:17:17,408 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:17:17,437 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 23:17:17,437 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 23:17:17,437 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:17:17,437 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:27:37,044 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final
-2023-05-16 23:27:37,044 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/config/pc.cfg
-2023-05-16 23:27:37,046 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:27:37,083 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml
-2023-05-16 23:27:37,083 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv
-2023-05-16 23:27:37,083 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
-2023-05-16 23:27:37,083 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/final/results/esperados.csv
+2023-05-07 21:33:04,442 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:04,442 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:04,442 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:04,442 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:04,444 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:04,444 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:04,444 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:04,444 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:04,648 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:04,648 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:04,648 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:04,648 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:04,648 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:04,656 - INFO - 1856 linhas escritas em results/gli.csv
+2023-05-07 21:33:04,656 - INFO - 1856 linhas escritas em results/gli.csv
+2023-05-07 21:33:04,656 - INFO - 1856 linhas escritas em results/gli.csv
+2023-05-07 21:33:04,656 - INFO - 1856 linhas escritas em results/gli.csv
+2023-05-07 21:33:04,656 - INFO - 1856 linhas escritas em results/gli.csv
+2023-05-07 21:33:04,656 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:04,656 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:04,656 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:04,656 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:04,656 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,499 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,510 - INFO - Processando data/cf77.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,591 - INFO - Processando data/cf75.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:58,827 - INFO - Processando data/cf76.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,010 - INFO - Processando data/cf78.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,062 - INFO - Processando data/cf79.xml
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,135 - INFO - Abrindo results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:33:59,171 - INFO - Fechando results/gli.csv
+2023-05-07 21:35:22,745 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-07 21:35:22,745 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/config/pc.cfg
+2023-05-07 21:35:22,747 - INFO - Abrindo /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/esperados.csv
+2023-05-07 21:35:22,785 - INFO - 99 consultas processadas de /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/data/cfquery.xml
+2023-05-07 21:35:22,785 - INFO - 99 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/consultas.csv
+2023-05-07 21:35:22,786 - INFO - 4820 linhas escritas em /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/esperados.csv
+2023-05-07 21:35:22,787 - INFO - Fechando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/data/cfquery.xml, /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/consultas.csv e /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título/results/esperados.csv
+2023-05-08 00:21:26,067 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 00:21:26,090 - INFO - Processando data/cf77.xml
+2023-05-08 00:21:26,204 - INFO - Processando data/cf75.xml
+2023-05-08 00:21:26,331 - INFO - Processando data/cf76.xml
+2023-05-08 00:21:27,436 - INFO - Processando data/cf78.xml
+2023-05-08 00:21:27,819 - INFO - Processando data/cf79.xml
+2023-05-08 00:21:28,318 - INFO - Abrindo results/gli.csv
+2023-05-08 00:21:28,318 - INFO - Abrindo results/gli.csv
+2023-05-08 00:21:28,502 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-08 00:21:28,502 - INFO - 5815 linhas escritas em results/gli.csv
+2023-05-08 00:21:28,502 - INFO - Fechando results/gli.csv
+2023-05-08 00:21:28,502 - INFO - Fechando results/gli.csv
+2023-05-08 10:15:35,201 - INFO - Executando gerador de lista invertida
+2023-05-08 10:15:35,201 - INFO - Executando gerador de lista invertida
+2023-05-08 10:15:35,204 - INFO - Abrindo gli.cfg
+2023-05-08 10:15:35,204 - INFO - Abrindo gli.cfg
+2023-05-08 10:15:35,205 - INFO - Processando data/cf77.xml
+2023-05-08 10:15:35,205 - INFO - Processando data/cf77.xml
+2023-05-08 10:16:08,468 - INFO - Executando gerador de lista invertida
+2023-05-08 10:16:08,468 - INFO - Executando gerador de lista invertida
+2023-05-08 10:16:08,477 - INFO - Abrindo gli.cfg
+2023-05-08 10:16:08,477 - INFO - Abrindo gli.cfg
+2023-05-08 10:16:08,478 - INFO - Processando data/cf77.xml
+2023-05-08 10:16:08,478 - INFO - Processando data/cf77.xml
+2023-05-08 10:16:08,860 - INFO - Processando data/cf75.xml
+2023-05-08 10:16:08,860 - INFO - Processando data/cf75.xml
+2023-05-08 10:16:08,955 - INFO - Processando data/cf76.xml
+2023-05-08 10:16:08,955 - INFO - Processando data/cf76.xml
+2023-05-08 10:16:09,066 - INFO - Processando data/cf78.xml
+2023-05-08 10:16:09,066 - INFO - Processando data/cf78.xml
+2023-05-08 10:16:09,212 - INFO - Processando data/cf79.xml
+2023-05-08 10:16:09,212 - INFO - Processando data/cf79.xml
+2023-05-08 10:16:09,334 - INFO - Abrindo results/gli.csv
+2023-05-08 10:16:09,334 - INFO - Abrindo results/gli.csv
+2023-05-08 10:16:09,421 - INFO - 9861 linhas escritas em results/gli.csv
+2023-05-08 10:16:09,421 - INFO - 9861 linhas escritas em results/gli.csv
+2023-05-08 10:16:09,421 - INFO - Fechando results/gli.csv
+2023-05-08 10:16:09,421 - INFO - Fechando results/gli.csv
+2023-05-08 10:18:22,451 - INFO - Executando gerador de lista invertida
+2023-05-08 10:18:22,451 - INFO - Executando gerador de lista invertida
+2023-05-08 10:18:22,452 - INFO - Abrindo gli.cfg
+2023-05-08 10:18:22,452 - INFO - Abrindo gli.cfg
+2023-05-08 10:18:22,452 - INFO - Processando data/cf74.xml
+2023-05-08 10:18:22,452 - INFO - Processando data/cf74.xml
+2023-05-08 10:18:22,537 - INFO - Processando data/cf75.xml
+2023-05-08 10:18:22,537 - INFO - Processando data/cf75.xml
+2023-05-08 10:18:22,686 - INFO - Processando data/cf76.xml
+2023-05-08 10:18:22,686 - INFO - Processando data/cf76.xml
+2023-05-08 10:18:22,984 - INFO - Processando data/cf77.xml
+2023-05-08 10:18:22,984 - INFO - Processando data/cf77.xml
+2023-05-08 10:18:23,071 - INFO - Processando data/cf78.xml
+2023-05-08 10:18:23,071 - INFO - Processando data/cf78.xml
+2023-05-08 10:18:23,145 - INFO - Processando data/cf79.xml
+2023-05-08 10:18:23,145 - INFO - Processando data/cf79.xml
+2023-05-08 10:18:23,313 - INFO - Abrindo results/gli.csv
+2023-05-08 10:18:23,313 - INFO - Abrindo results/gli.csv
+2023-05-08 10:18:23,404 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:18:23,404 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:18:23,404 - INFO - Fechando results/gli.csv
+2023-05-08 10:18:23,404 - INFO - Fechando results/gli.csv
+2023-05-08 10:20:48,420 - INFO - Executando gerador de lista invertida
+2023-05-08 10:20:48,420 - INFO - Executando gerador de lista invertida
+2023-05-08 10:20:48,422 - INFO - Abrindo gli.cfg
+2023-05-08 10:20:48,422 - INFO - Abrindo gli.cfg
+2023-05-08 10:20:48,424 - INFO - Processando data/cf74.xml
+2023-05-08 10:20:48,424 - INFO - Processando data/cf74.xml
+2023-05-08 10:20:48,595 - INFO - Processando data/cf75.xml
+2023-05-08 10:20:48,595 - INFO - Processando data/cf75.xml
+2023-05-08 10:20:48,766 - INFO - Processando data/cf76.xml
+2023-05-08 10:20:48,766 - INFO - Processando data/cf76.xml
+2023-05-08 10:20:49,018 - INFO - Processando data/cf77.xml
+2023-05-08 10:20:49,018 - INFO - Processando data/cf77.xml
+2023-05-08 10:20:49,102 - INFO - Processando data/cf78.xml
+2023-05-08 10:20:49,102 - INFO - Processando data/cf78.xml
+2023-05-08 10:20:49,171 - INFO - Processando data/cf79.xml
+2023-05-08 10:20:49,171 - INFO - Processando data/cf79.xml
+2023-05-08 10:20:49,272 - INFO - Abrindo results/gli.csv
+2023-05-08 10:20:49,272 - INFO - Abrindo results/gli.csv
+2023-05-08 10:20:49,821 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:20:49,821 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:20:49,821 - INFO - Fechando results/gli.csv
+2023-05-08 10:20:49,821 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:12,257 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:30:12,257 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:30:12,257 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:30:12,273 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:12,273 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:12,273 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:12,409 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:12,409 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:12,409 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:12,505 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:12,505 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:12,505 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:12,859 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:12,859 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:12,859 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:12,949 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:12,949 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:12,949 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:13,026 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:13,026 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:13,026 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:13,113 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:13,113 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:13,113 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:13,113 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:13,338 - INFO - 6355 linhas escritas em results/gli.csv
+2023-05-08 10:30:13,338 - INFO - 6355 linhas escritas em results/gli.csv
+2023-05-08 10:30:13,338 - INFO - 6355 linhas escritas em results/gli.csv
+2023-05-08 10:30:13,338 - INFO - 6355 linhas escritas em results/gli.csv
+2023-05-08 10:30:13,339 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:13,339 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:13,339 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:13,339 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:25,077 - INFO - Executando gerador de lista invertida
+2023-05-08 10:30:25,077 - INFO - Executando gerador de lista invertida
+2023-05-08 10:30:25,077 - INFO - Executando gerador de lista invertida
+2023-05-08 10:30:25,077 - INFO - Executando gerador de lista invertida
+2023-05-08 10:30:25,079 - INFO - Abrindo gli.cfg
+2023-05-08 10:30:25,079 - INFO - Abrindo gli.cfg
+2023-05-08 10:30:25,079 - INFO - Abrindo gli.cfg
+2023-05-08 10:30:25,079 - INFO - Abrindo gli.cfg
+2023-05-08 10:30:25,079 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:25,079 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:25,079 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:25,079 - INFO - Processando data/cf74.xml
+2023-05-08 10:30:25,306 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:25,306 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:25,306 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:25,306 - INFO - Processando data/cf75.xml
+2023-05-08 10:30:25,480 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:25,480 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:25,480 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:25,480 - INFO - Processando data/cf76.xml
+2023-05-08 10:30:25,624 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:25,624 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:25,624 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:25,624 - INFO - Processando data/cf77.xml
+2023-05-08 10:30:25,822 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:25,822 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:25,822 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:25,822 - INFO - Processando data/cf78.xml
+2023-05-08 10:30:25,920 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:25,920 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:25,920 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:25,920 - INFO - Processando data/cf79.xml
+2023-05-08 10:30:26,018 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:26,018 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:26,018 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:26,018 - INFO - Abrindo results/gli.csv
+2023-05-08 10:30:26,195 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:30:26,195 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:30:26,195 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:30:26,195 - INFO - 10563 linhas escritas em results/gli.csv
+2023-05-08 10:30:26,196 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:26,196 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:26,196 - INFO - Fechando results/gli.csv
+2023-05-08 10:30:26,196 - INFO - Fechando results/gli.csv
+2023-05-08 10:31:49,542 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:31:49,542 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:31:49,542 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:31:49,542 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:31:49,542 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:31:49,545 - INFO - Processando data/cf74.xml
+2023-05-08 10:31:49,545 - INFO - Processando data/cf74.xml
+2023-05-08 10:31:49,545 - INFO - Processando data/cf74.xml
+2023-05-08 10:31:49,545 - INFO - Processando data/cf74.xml
+2023-05-08 10:31:49,545 - INFO - Processando data/cf74.xml
+2023-05-08 10:31:49,624 - INFO - Processando data/cf75.xml
+2023-05-08 10:31:49,624 - INFO - Processando data/cf75.xml
+2023-05-08 10:31:49,624 - INFO - Processando data/cf75.xml
+2023-05-08 10:31:49,624 - INFO - Processando data/cf75.xml
+2023-05-08 10:31:49,624 - INFO - Processando data/cf75.xml
+2023-05-08 10:31:49,739 - INFO - Processando data/cf76.xml
+2023-05-08 10:31:49,739 - INFO - Processando data/cf76.xml
+2023-05-08 10:31:49,739 - INFO - Processando data/cf76.xml
+2023-05-08 10:31:49,739 - INFO - Processando data/cf76.xml
+2023-05-08 10:31:49,739 - INFO - Processando data/cf76.xml
+2023-05-08 10:31:49,827 - INFO - Processando data/cf77.xml
+2023-05-08 10:31:49,827 - INFO - Processando data/cf77.xml
+2023-05-08 10:31:49,827 - INFO - Processando data/cf77.xml
+2023-05-08 10:31:49,827 - INFO - Processando data/cf77.xml
+2023-05-08 10:31:49,827 - INFO - Processando data/cf77.xml
+2023-05-08 10:31:49,888 - INFO - Processando data/cf78.xml
+2023-05-08 10:31:49,888 - INFO - Processando data/cf78.xml
+2023-05-08 10:31:49,888 - INFO - Processando data/cf78.xml
+2023-05-08 10:31:49,888 - INFO - Processando data/cf78.xml
+2023-05-08 10:31:49,888 - INFO - Processando data/cf78.xml
+2023-05-08 10:31:49,990 - INFO - Processando data/cf79.xml
+2023-05-08 10:31:49,990 - INFO - Processando data/cf79.xml
+2023-05-08 10:31:49,990 - INFO - Processando data/cf79.xml
+2023-05-08 10:31:49,990 - INFO - Processando data/cf79.xml
+2023-05-08 10:31:49,990 - INFO - Processando data/cf79.xml
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,055 - INFO - Abrindo inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - 6355 linhas escritas em inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:31:50,203 - INFO - Fechando inverted_list
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,026 - INFO - Executando /Users/matheuscarvalho/Programming/Mestrado/BMT/Buscador/Pasta Sem Título
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,029 - INFO - Processando data/cf74.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,119 - INFO - Processando data/cf75.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,190 - INFO - Processando data/cf76.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,343 - INFO - Processando data/cf77.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,398 - INFO - Processando data/cf78.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,441 - INFO - Processando data/cf79.xml
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,556 - INFO - Abrindo results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - 6355 linhas escritas em results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-08 10:33:49,604 - INFO - Fechando results/inverted_list.csv
+2023-05-24 20:53:40,613 - INFO - Executando Processador
+2023-05-24 20:53:40,613 - INFO - Executando Processador
+2023-05-24 20:53:40,613 - INFO - Abrindo pc.cfg
+2023-05-24 20:53:40,613 - INFO - Abrindo pc.cfg
+2023-05-24 20:53:40,615 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:40,615 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,560 - INFO - Executando Processador
+2023-05-24 20:53:58,560 - INFO - Executando Processador
+2023-05-24 20:53:58,560 - INFO - Executando Processador
+2023-05-24 20:53:58,560 - INFO - Abrindo pc.cfg
+2023-05-24 20:53:58,560 - INFO - Abrindo pc.cfg
+2023-05-24 20:53:58,560 - INFO - Abrindo pc.cfg
+2023-05-24 20:53:58,560 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,560 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,560 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:53:58,598 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:53:58,598 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:53:58,598 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:53:58,598 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:53:58,598 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:53:58,598 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:53:58,598 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:56,159 - INFO - Executando Processador
+2023-05-24 20:54:56,159 - INFO - Executando Processador
+2023-05-24 20:54:56,159 - INFO - Executando Processador
+2023-05-24 20:54:56,159 - INFO - Executando Processador
+2023-05-24 20:54:56,160 - INFO - Abrindo pc.cfg
+2023-05-24 20:54:56,160 - INFO - Abrindo pc.cfg
+2023-05-24 20:54:56,160 - INFO - Abrindo pc.cfg
+2023-05-24 20:54:56,160 - INFO - Abrindo pc.cfg
+2023-05-24 20:54:56,165 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 20:54:56,165 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 20:54:56,165 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 20:54:56,165 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 20:54:57,343 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,343 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,343 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,343 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:54:57,413 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:54:57,413 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:54:57,413 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 20:54:57,413 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:54:57,413 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:54:57,413 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:54:57,413 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 20:54:57,413 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 20:54:57,413 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 23:02:11,922 - INFO - Executando Processador
+2023-05-24 23:02:11,925 - INFO - Abrindo pc.cfg
+2023-05-24 23:02:11,926 - INFO - Escolhida a configuração de fazer stemming das consultas
+2023-05-24 23:02:11,927 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 23:02:12,072 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 23:02:12,072 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 23:02:12,072 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 23:02:12,073 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 23:36:11,085 - INFO - Executando Processador
+2023-05-24 23:36:11,093 - INFO - Abrindo pc.cfg
+2023-05-24 23:36:11,093 - INFO - Escolhida a configuração de não fazer stemming das consultas
+2023-05-24 23:36:11,094 - INFO - Abrindo data/cfquery.xml, results/consultas.csv e results/esperados.csv
+2023-05-24 23:36:12,111 - INFO - 99 consultas processadas de data/cfquery.xml
+2023-05-24 23:36:12,111 - INFO - 99 linhas escritas em results/consultas.csv
+2023-05-24 23:36:12,111 - INFO - 4820 linhas escritas em results/esperados.csv
+2023-05-24 23:36:12,112 - INFO - Fechando data/cfquery.xml, results/consultas.csv e results/esperados.csv
